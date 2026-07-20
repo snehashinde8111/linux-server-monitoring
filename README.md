@@ -55,3 +55,21 @@ Service Status:
 sshd : Running
 crond : Running
 NetworkManager : Running
+G
+## Screenshots
+
+### Server Monitoring Output
+
+![Monitoring Output](screenshots/project-screenshots/Screenshot%202026-07-20%20212226.png)
+
+### Cron Job Configuration
+
+![Cron Job](screenshots/project-screenshots/Screenshot%202026-07-20%20212357.png)
+
+### Service Monitoring
+
+![Service Status](screenshots/project-screenshots/Screenshot%202026-07-20%20212512.png)
+
+### Project Structure
+
+![Project Structure](screenshots/project-screenshots/Screenshot%202026-07-20%20212610.png)
