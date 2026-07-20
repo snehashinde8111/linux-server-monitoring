@@ -55,7 +55,7 @@ Service Status:
 sshd : Running
 crond : Running
 NetworkManager : Running
-G
+
 ## Screenshots
 
 ### Server Monitoring Output
